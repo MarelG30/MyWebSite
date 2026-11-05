@@ -221,9 +221,9 @@ export default function Hero() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#FFB454] opacity-70 motion-reduce:animate-none" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-[#FFB454]" />
             </span>
-            <span className="text-sm text-[#FFD596]">
+            {/* <span className="text-sm text-[#FFD596]">
               Available for opportunities
-            </span>
+            </span> */}
           </motion.div>
 
           <motion.p variants={item} className="mt-8 text-lg text-[#8A94A8]">
