@@ -213,18 +213,18 @@ export default function Hero() {
       >
         {/* ---------- Kiri: teks ---------- */}
         <div>
-          <motion.div
+          {/* <motion.div
             variants={item}
             className="inline-flex items-center gap-2.5 rounded-full border border-[#FFB454]/30 bg-[#FFB454]/10 py-1.5 pl-3 pr-4"
           >
-            {/* <span className="relative flex h-2 w-2">
+            <span className="relative flex h-2 w-2">
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#FFB454] opacity-70 motion-reduce:animate-none" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-[#FFB454]" />
-            </span> */}
-            {/* <span className="text-sm text-[#FFD596]">
+            </span>
+            <span className="text-sm text-[#FFD596]">
               Available for opportunities
-            </span> */}
-          </motion.div>
+            </span>
+          </motion.div> */}
 
           <motion.p variants={item} className="mt-8 text-lg text-[#8A94A8]">
             Hello, I&apos;m
