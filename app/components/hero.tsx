@@ -276,7 +276,7 @@ export default function Hero() {
 
           <motion.div variants={item} className="mt-10 flex flex-wrap gap-3">
             <a
-              href="/MyResume.pdf"
+              href="/MyResumeSaya.pdf"
               download="Marel-Gultom-Resume.pdf"
               className="group inline-flex items-center gap-2 rounded-full bg-[#E8ECF4] px-7 py-3.5 font-semibold text-[#0A0F1C] transition hover:bg-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#5B8CFF]"
             >
